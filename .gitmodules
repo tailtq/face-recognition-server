@@ -1,0 +1,3 @@
+[submodule "handmade-products/face-recognition/sort"]
+	path = sort
+	url = https://github.com/tailtq/sort.git

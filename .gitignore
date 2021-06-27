@@ -1,0 +1,7 @@
+*.mp4
+*.pickle
+.env
+face_recognition
+
+FaceEmbedding/
+**/__pycache__/
